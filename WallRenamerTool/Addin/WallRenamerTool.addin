@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>WallRenamerTool</Name>
+    <Assembly>"$(AppData)\Autodesk\Revit\Addins\2023\WallRenamerTool.dll"</Assembly>
+    <AddInId>9A6F7F27-8BA1-4B4E-AB90-F203B5121C0C</AddInId>
+    <FullClassName>WallRenamerTool.Entry.ExternalCommand</FullClassName>
+    <VendorId>YOURID</VendorId>
+    <VendorDescription>Your Company</VendorDescription>
+  </AddIn>
+</RevitAddIns>
