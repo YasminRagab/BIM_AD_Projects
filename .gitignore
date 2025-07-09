@@ -1,1 +1,12 @@
-bin/\nobj/
+# Ignore build outputs
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Ignore VS specific folders
+.vs/
+*.dbmdl
+*.pdb
